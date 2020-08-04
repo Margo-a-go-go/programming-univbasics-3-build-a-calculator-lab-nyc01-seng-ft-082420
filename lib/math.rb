@@ -30,5 +30,6 @@ end
 
 def square_root(num)
 sqt = Math.sqrt(num)
-puts num
+puts sqt
+sqt
 end
